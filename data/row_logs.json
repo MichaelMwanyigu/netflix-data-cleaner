@@ -1,0 +1,8 @@
+[
+    {"user_id": 1, "action": "play", "timestamp": "2024-05-01T09:00:00Z"},
+    {"user_id": 1, "action": "pause", "timestamp": "2024-05-01T09:20:00Z"},
+    {"user_id": 2, "action": "play", "timestamp": "2024-05-01T10:00:00Z"},
+    {"user_id": 2, "action": "stop", "timestamp": "2024-05-01T10:30:00Z"},
+    {"user_id": null, "action": "play", "timestamp": "2024-05-01T11:00:00Z"},
+    {"user_id": 3, "action": "play", "timestamp": "invalid-time"}
+]
